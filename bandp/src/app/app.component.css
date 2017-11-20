@@ -56,8 +56,8 @@ body {
     /* can be treated like a fallback */
     background-color: white;;
     /* will be "on top", if browser supports it */
-    
-    background-image: linear-gradient(teal, #262626);
+    background: url("https://images5.alphacoders.com/366/366373.jpg") no-repeat fixed center;
+    /*background-image: linear-gradient(aqua,teal);*/
   }
   
   /* The h2 tags are the main categories */
@@ -84,18 +84,20 @@ body {
   .space-maker {
     /* Layout declarations */
     margin-bottom: 3em;
+    
   }
   
   /* FOOTER */
 
   .footer {
-    background: rgb(41, 59, 63);
+    /*background: rgb(41, 59, 63);*/
+    background: url("https://images.alphacoders.com/777/777158.jpg") no-repeat fixed center;
     padding: 50px 0;
 }
   .content-footer {
     /* Layout declarations */
-    background: rgb(41, 59, 63);
-   
+/*background: rgb(41, 59, 63);*/
+background: url("https://images.alphacoders.com/777/777158.jpg") no-repeat fixed center;
     padding: 10em;
     border-bottom: 8px solid #EDEDED;
   }
