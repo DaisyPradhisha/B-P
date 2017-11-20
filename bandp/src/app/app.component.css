@@ -27,13 +27,15 @@ body {
   }
   
   .masthead-intro {
-    font-size:10rem;
+    font-size:12rem;
+    font-family: 'Lato', sans-serif;
     margin: 2em 0 0 0;
   }
   
   .masthead-heading {
     /* Typography declarations */
-    font-size: 5rem;
+    font-size: 10rem;
+    font-family: 'Lato', sans-serif;
     /* Layout declarations */
     padding: 0;
     margin: 0 0 1em;
