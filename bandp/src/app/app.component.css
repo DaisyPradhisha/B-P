@@ -71,8 +71,8 @@ body {
   /* The h3 tags are the additional questions */
   h3 {
     /* Typography declarations */
-    font-style: italic;
-    font-size: 2.5em;
+    
+    font-size: 40px;
   }
   
   /* The p tags that are descendants of the section tags are the answers */
@@ -142,6 +142,9 @@ background: url("https://images.alphacoders.com/777/777158.jpg") no-repeat fixed
     -o-transition: all 0.2s ease;
     transition: all 0.2s ease;
   }
+
+
+  
   
   .social li:last-child {
     /* Layout declarations */
